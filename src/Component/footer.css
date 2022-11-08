@@ -1,3 +1,40 @@
 .footer {
-    height: 332px;
+    /* height: 332px; */
+    margin-top: 14px;
+    background-color: #172337;
+    color: #fff;
+    padding: 30px;
+    clear: both;
+}
+
+li {
+    list-style: none;
+    color: #fff;
+    display: block;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 2;
+}
+
+.contact {
+    color: #fff;
+    display: block;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 2;
+}
+
+.heading-top {
+    text-align: left;
+    color: #878787;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 9px;
+
+}
+
+.split {
+    border-left: 1px solid gray;
+
+
 }

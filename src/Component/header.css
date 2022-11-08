@@ -82,6 +82,10 @@ header .searchButton {
     font-size: 30px;
 }
 
+.searchButton svg {
+    margin-top: -11px;
+}
+
 header .wrap {
     width: 30%;
     position: absolute;
